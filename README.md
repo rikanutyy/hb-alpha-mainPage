@@ -1,10 +1,10 @@
 # HalykBank
-
-> Wubba Lubba Dub Dub
-
 ## Build Setup
 
 ``` bash
+# start
+$ git clone https://github.com/rikanutyy/hb-alpha-mainPage.git
+
 # install dependencies
 $ npm run install
 
